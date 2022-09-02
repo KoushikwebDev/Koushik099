@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Koushik Saha form India.
+- 👋 Hi, I’m Koushik Saha from India.
 - 👀 I’m interested in ...Coding.
 - 🌱 I’m currently learning ...FullStack Web Development.
 - 💞️ I’m looking to collaborate on ...who is learing Web Devolopment right now.
